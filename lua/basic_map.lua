@@ -20,4 +20,4 @@ vis:feedkeys("vK")
 vis:feedkeys("VK")
 vis:feedkeys("RK")
 
-vis:command("w! basic_map.out")
+vis:command("w! basic_map.write")

@@ -1,7 +1,7 @@
 all: clean test
 
 clean:
-	@rm -f *.out *.err
+	@rm -f *.out *.err *.write
 
 test:
 	@./test.sh

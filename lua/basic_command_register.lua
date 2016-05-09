@@ -25,4 +25,4 @@ vis:command('foo one')
 vis:command('foo one two')
 vis:command('foo one two three four five six')
 
-vis:command('w! basic_command_register.out')
+vis:command('w! basic_command_register.write')

@@ -19,7 +19,8 @@ for t in $test_files; do
 	TESTS_RUN=$((TESTS_RUN + 1))
 	t=${t%.in}
 	t=${t#./}
-	$VIS "$t".in
+	$VIS "$t".in > "$t.out"
+	[ -e "$t.write" ] && mv "$t.write" "$t.out"
 
 	printf "%-30s" "$t"
 	if [ -e "$t".out ]; then
