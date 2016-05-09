@@ -1,6 +1,6 @@
-true
-true
-true
-true
-true
-true
+win.file.name (basic_empty_file.in) :	basic_empty_file.in
+win.file.newlines (nl) : 	nl
+win.file.size (0) : 	0
+#win.file.lines (0) : 	0
+win.file.lines () : 	
+win.file.syntax (nil) : 	nil

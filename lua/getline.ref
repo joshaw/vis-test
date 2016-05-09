@@ -1,5 +1,5 @@
-true
-true
-true
-true
-true
+getline(win, 1): 	1: abc
+getline(win, 1, 3): 	1: abc, 2: def, 3: ghi
+getline(win, '.'): 	4: jkl
+getline(win, '.', 3): 	4: jkl, 5: mno, 6: pqr
+getline(win, '$'): 	9: yz_

@@ -1,7 +1,8 @@
-true
-true
-true
-true
-true
-true
-true
+win.file.name (basic_file.in) : 	basic_file.in
+#win.file.lines (9) : 	9
+win.file.newlines (nl) : 	nl
+win.file.size (63) : 	63
+win.file.lines (1: abc) : 	1: abc
+win.file.lines (6: pqr) : 	6: pqr
+win.file.syntax (nil) : 	nil
+win.file.lines[cursor] (4: jkl) : 	3: ghi

@@ -1,18 +1,18 @@
-true
-true
-true
-true
-true
-true
-true
-true
-true
-true
-true
-true
-true
-true
-true
-true
-true
-true
+win.cursor.line: (1)	1
+win.cursor.col: (1)	1
+win.cursor.pos: (0)	0
+win.cursor.line: (5)	5
+win.cursor.col: (3)	3
+win.cursor.pos: (30)	30
+win.cursor.line: (8)	8
+win.cursor.col: (1)	1
+win.cursor.pos: (49)	49
+win.cursor.line: (1)	1
+win.cursor.col: (1)	1
+win.cursor.pos: (0)	0
+win.cursor.line: (1)	1
+win.cursor.col: (1)	1
+win.cursor.pos: (0)	0
+win.cursor.line: (10)	10
+win.cursor.col: (1)	1
+win.cursor.pos: (63)	63
